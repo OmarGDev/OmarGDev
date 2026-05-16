@@ -1,110 +1,100 @@
-<h1 align="center">Hola 👋, soy Omar Gutierrez</h1>
+# 👋 Hola, soy Omar Anthony Gutierrez Panebra
 
-<h3 align="center">
-Backend Developer en formación | Java & Spring Boot
-</h3>
+## 🚀 Java Backend Developer
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Desarrollador+Backend+en+formación;Aprendiendo+Spring+Boot+y+Java;Construyendo+proyectos+y+mejorando+cada+día" />
-</p>
+💻 Desarrollador Backend enfocado en la creación de APIs REST utilizando Spring Boot, JWT y bases de datos relacionales.
 
----
-
-# 💫 Sobre mí
-
-💻 Estudiante de Computación e Informática  
-☕ Enfocado en Backend con Java y Spring Boot  
-⚛️ También tengo conocimientos en React  
-🛠️ Aprendiendo desarrollo web, APIs y bases de datos  
-🎮 Fan de Minecraft y League of Legends  
-🚀 Objetivo: trabajar como desarrollador backend y crear proyectos reales
-
----
-
-# 🚀 Tecnologías y herramientas
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,react,js,html,css,mysql,git,github,vscode,idea,maven" />
-</p>
-
----
-
-# 📚 Actualmente aprendiendo
-
-- Spring Boot
-- APIs REST
-- Arquitectura Backend
+Actualmente construyo proyectos backend aplicando:
+- Arquitectura por capas
 - Seguridad con Spring Security
-- MySQL
-- Git y GitHub profesional
+- Persistencia con JPA/Hibernate
+- Integración frontend-backend
+- Buenas prácticas de desarrollo
 
 ---
 
-# 🛠️ Proyectos
+# 🛠️ Stack Tecnológico
 
-## 🛒 Ecommerce Web
-Sistema de ventas online usando Spring Boot y base de datos.
+## ⚙️ Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
-## 📚 Aula Virtual
-Proyecto web para gestión de alumnos y cursos.
+## 🗄️ Bases de Datos
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
-## 🎮 Servidor Minecraft Hardcore
-Servidor con mods, dificultad progresiva, voice chat y sistemas personalizados.
+## 🎨 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black)
+
+## 🧰 Herramientas
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-F76935?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
-# 📊 Estadísticas de GitHub
+# 📌 Proyectos Destacados
+
+## 🏪 AdminMarket
+Plataforma full stack desarrollada con Spring Boot + React orientada a la gestión de un mercado mayorista.
+
+### 🔥 Funcionalidades
+- Autenticación JWT y control de roles
+- Gestión de productos y stands
+- Gestión de pagos y cuotas
+- Directorio público
+- Generación de QR
+- Arquitectura backend por capas
+
+### ⚙️ Tecnologías
+`Java 21` `Spring Boot` `Spring Security` `PostgreSQL` `React` `JWT`
+
+---
+
+## 📱 HabitFlow
+Aplicación móvil para gestión de hábitos diarios con backend REST y recordatorios personalizados.
+
+### 🔥 Funcionalidades
+- Aplicación Android desarrollada en Java
+- Backend REST con Node.js + Express
+- Programación de hábitos recurrentes
+- Integración cliente-servidor
+- Persistencia con SQL Server
+
+### ⚙️ Tecnologías
+`Java Android` `Node.js` `Express` `TypeScript` `SQL Server`
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=tokyonight"/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUUSUARIO&layout=compact&theme=tokyonight"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=OmarGDev&show_icons=true&theme=tokyonight"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarGDev&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
-# 🔥 Racha de contribuciones
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=TUUSUARIO&theme=tokyonight&hide_border=false"/>
-</p>
-
----
-
-# 🌎 Conecta conmigo
-
-<p align="center">
-  <a href="https://github.com/OmarGDev">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-  
-  <a href="https://www.linkedin.com/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-</p>
+# 🌱 Actualmente Aprendiendo
+- Docker avanzado
+- Testing con JUnit y Mockito
+- Microservicios con Spring Boot
+- Despliegue de aplicaciones backend
+- Buenas prácticas de arquitectura backend
 
 ---
 
-# ✨ Frase
+# 📫 Contacto
 
-> "Cada proyecto es experiencia para el siguiente nivel."
+📧 Email: omargutierrez.dev@gmail.com
 
----
+💼 LinkedIn:
+https://linkedin.com/in/omargutierrezp
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6A5ACD&height=120&section=footer"/>
-</p>
-<!--
-**OmarGDev/OmarGDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 GitHub:
+https://github.com/OmarGDev
