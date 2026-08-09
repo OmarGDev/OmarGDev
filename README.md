@@ -1,165 +1,82 @@
-<div align="center">
-
-```
-╔═══════════════════════════════════════════════════════════╗
-║                                                           ║
-║                OMAR ANTHONY GUTIERREZ PANEBRA             ║
-║                  Java Full Stack Developer                ║
-║                                                           ║
-╚═══════════════════════════════════════════════════════════╝
-```
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1200&color=6DB33F&center=true&vCenter=true&width=600&lines=Spring+Boot+%7C+JWT+%7C+REST+APIs;React+%7C+PostgreSQL+%7C+Docker;Arquitectura+por+capas+%7C+Clean+Code)](https://git.io/typing-svg)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/omargutierrezp)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:omargutierrez.dev@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](#)
-
+<div data-importer="image" align="center">
+  <img data-importer="image" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
----
+###
 
-## `$ whoami`
-
-```java
-@Component
-public class OmarGutierrez {
-
-    private final String role     = "Java Full Stack Developer";
-    private final String location = "Lima, Perú 🇵🇪";
-
-    private final List<String> backend = List.of(
-        "Java 21", "Spring Boot 3", "Spring Security",
-        "Spring Data JPA", "JWT", "Hibernate", "REST APIs",
-        "Node.js", "Express", "TypeScript"
-    );
-
-    private final List<String> frontend = List.of(
-        "React 18", "JavaScript ES6+", "HTML5", "CSS3"
-    );
-
-    private final List<String> databases = List.of(
-        "PostgreSQL", "MySQL", "SQL Server", "Oracle"
-    );
-
-    private final List<String> devops = List.of(
-        "Docker", "Git", "GitHub", "Maven",
-        "Swagger / OpenAPI", "Postman"
-    );
-
-    private final List<String> learning = List.of(
-        "JUnit 5", "Mockito", "Spring Cloud", "Hexagonal Architecture"
-    );
-}
-```
-
----
-
-## Stack
-
-<table>
-<tr>
-<td valign="top" width="50%">
-
-**Backend & Seguridad**
-
-![Java](https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React_18-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-</td>
-<td valign="top" width="50%">
-
-**Bases de Datos**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
-
-**DevOps & Herramientas**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
-</td>
-</tr>
-</table>
-
----
-
-## Proyectos
-
-### 🏪 AdminMarket — Sistema de Gestión para Mercado Mayorista
-
-> Plataforma full stack para administración operativa, financiera y comercial de un mercado mayorista.
-
-```
-Arquitectura:  Cliente-Servidor · REST API · Control de acceso por roles
-Backend:       Java 21 · Spring Boot 3 · Spring Security · JWT · PostgreSQL · Docker
-Frontend:      React 18 · rutas protegidas por rol · consumo de REST API
-```
-
-**Lo más relevante:**
-- Diseñé +15 endpoints REST documentados con Swagger/OpenAPI
-- Autenticación y autorización con Spring Security + JWT (roles ADMIN / VENDEDOR)
-- Validación de identidad mediante generación y lectura de credenciales QR
-- Contenerizado con Docker para despliegue reproducible
-
-[![Frontend](https://img.shields.io/badge/Repositorio_Frontend-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://github.com/OmarGDev/GestionDeMercadoFront)
-[![Backend](https://img.shields.io/badge/Repositorio_Backend-6DB33F?style=flat-square&logo=springboot&logoColor=white)](https://github.com/jesuslink1/GestionMercadoMayorista)
-
----
-
-### 📱 HabitFlow — Aplicación de Gestión de Hábitos
-
-> Backend REST para app móvil Android orientada al seguimiento de hábitos diarios.
-
-```
-Arquitectura:  Cliente-Servidor · REST API · Sincronización en tiempo real
-Backend:       Node.js · Express · TypeScript · SQL Server
-Mobile:        Android nativo (Java)
-```
-
-**Lo más relevante:**
-- API REST con autenticación de usuarios y persistencia en SQL Server
-- Lógica de hábitos recurrentes y recordatorios configurables por horario
-- Integración con app Android nativa mediante consumo de REST API
-
-[![Mobile](https://img.shields.io/badge/Repositorio_Android-3DDC84?style=flat-square&logo=android&logoColor=white)](https://github.com/OmarGDev/MisHabitos)
-[![Backend](https://img.shields.io/badge/Repositorio_Backend-339933?style=flat-square&logo=nodedotjs&logoColor=white)](https://github.com/DavidAtma/back-habitos)
-
----
-
-## En proceso
-
-```
-🧪  JUnit 5 + Mockito          →  Testing automatizado en proyectos Spring Boot
-🌐  Spring Cloud               →  Arquitecturas de microservicios
-📐  Hexagonal Architecture     →  Separación de dominio e infraestructura
-🐳  CI/CD con Docker           →  Pipelines de despliegue continuo
-```
-
----
-
-<div align="center">
-
-`"Código que resuelve problemas reales, arquitectura que escala con ellos."`
-
-![Profile Views](https://komarev.com/ghpvc/?username=OmarGDev&color=6DB33F&style=flat-square&label=visitas+al+perfil)
-
+<div data-importer="socials" align="center">
+  <a href="www.linkedin.com/in/omargutierrezp" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="omargutierrez.dev@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
 </div>
+
+###
+
+<div data-importer="profile-views" align="center">
+  <img data-importer="profile-views" src="https://count.getloli.com/@:OmarGDev?theme=moebooru&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
+</div>
+
+###
+
+<h1 data-importer="text" align="center">Hola 👋</h1>
+
+###
+
+<h3 data-importer="text" align="left">👩‍💻 Sobre mí</h3>
+
+###
+
+<p data-importer="text" align="left">Soy Anthony de Perú <br><br>* 🔭 Estoy trabajando para convertirme en desarrollador Backend con Java y Spring Boot.<br>* 📚 Actualmente estoy aprendiendo Spring Boot, Spring Security, APIs REST, Docker y React.<br>* ⚡ En mi tiempo libre juego Minecraft y League of Legends, exploro nuevas tecnologías y trabajo en proyectos personales de programación.</p>
+
+###
+
+<h3 data-importer="text" align="left">🛠 Lenguajes y herramientas</h3>
+
+###
+
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="notion logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+</div>
+
+###
+
+<h3 data-importer="text" align="left">🔥   Mis Stats :</h3>
+
+###
+
+<div data-importer="stats" align="center">
+  <img src="https://streak-stats.demolab.com?user=OmarGDev&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
