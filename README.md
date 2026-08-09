@@ -29,7 +29,7 @@
 
 ###
 
-<p data-importer="text" align="left">Soy Anthony de Perú <br><br>* 🔭 Estoy trabajando para convertirme en desarrollador Backend con Java y Spring Boot.<br>* 📚 Actualmente estoy aprendiendo Spring Boot, Spring Security, APIs REST, Docker y React.<br>* ⚡ En mi tiempo libre juego Minecraft y League of Legends, exploro nuevas tecnologías y trabajo en proyectos personales de programación.</p>
+<p data-importer="text" align="left">Soy Omar de Perú <br><br>* 🔭 Estoy trabajando para convertirme en desarrollador Backend con Java y Spring Boot.<br>* 📚 Actualmente estoy aprendiendo Spring Boot, Spring Security, APIs REST, Docker y React.<br>* ⚡ En mi tiempo libre juego Minecraft y League of Legends, exploro nuevas tecnologías y trabajo en proyectos personales de programación.</p>
 
 ###
 
